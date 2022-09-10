@@ -21,7 +21,7 @@ module.exports = {
     },
   },
   pwa: {
-    name: 'YesPlayMusic',
+    name: 'Pad4-org×YesPlayMusic',
     iconPaths: {
       favicon32: 'img/icons/favicon-32x32.png',
     },
@@ -38,7 +38,7 @@ module.exports = {
       entry: 'src/main.js',
       template: 'public/index.html',
       filename: 'index.html',
-      title: 'YesPlayMusic',
+      title: 'Pad4-org×YesPlayMusic|高颜值网易云播放器',
       chunks: ['main', 'chunk-vendors', 'chunk-common', 'index'],
     },
   },
