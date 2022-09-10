@@ -1,0 +1,15 @@
+{
+
+  "rewrites": [
+
+    {
+
+      "source": "/api/:match*",
+
+      "destination": "https://yy.api.pad4.org/match*"
+
+    }
+
+  ]
+
+}
