@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://api-4tavu8bwm-pad4-org.vercel.app/:match*"
+      "destination": "https://yy.api.pad4.org/:match*"
     }
   ]
 }
